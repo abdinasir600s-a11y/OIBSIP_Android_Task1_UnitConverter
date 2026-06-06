@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UnitConverter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_navy</item>
+        <item name="colorOnPrimary">@color/card_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent_yellow</item>
+        <item name="colorSecondaryVariant">@color/accent_yellow</item>
+        <item name="colorOnSecondary">@color/text_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/dark_navy</item>
+        <!-- Background colors -->
+        <item name="android:windowBackground">@color/light_background</item>
+    </style>
+</resources>

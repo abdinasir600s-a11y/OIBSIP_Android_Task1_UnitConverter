@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="subtitle">Convert common units quickly and easily</string>
+    <string name="hint_enter_value">Enter value</string>
+    <string name="btn_convert">Convert</string>
+    <string name="btn_clear">Clear</string>
+    <string name="label_result">Result</string>
+    <string name="empty_result_text">—</string>
+    
+    <string-array name="conversion_types">
+        <item>Centimeters to Meters (cm → m)</item>
+        <item>Meters to Centimeters (m → cm)</item>
+        <item>Grams to Kilograms (g → kg)</item>
+        <item>Kilograms to Grams (kg → g)</item>
+        <item>Kilometers to Meters (km → m)</item>
+        <item>Meters to Kilometers (m → km)</item>
+        <item>Celsius to Fahrenheit (°C → °F)</item>
+        <item>Fahrenheit to Celsius (°F → °C)</item>
+    </string-array>
+</resources>

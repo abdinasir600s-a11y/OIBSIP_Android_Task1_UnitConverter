@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Colors -->
+    <color name="primary_blue">#1E88E5</color>
+    <color name="dark_navy">#162126</color>
+    <color name="accent_yellow">#FFD35A</color>
+    
+    <!-- Backgrounds -->
+    <color name="light_background">#F5F7FA</color>
+    <color name="card_white">#FFFFFF</color>
+    
+    <!-- Typography & Status -->
+    <color name="text_dark">#10202A</color>
+    <color name="text_gray">#6B7280</color>
+    <color name="error_red">#E53935</color>
+    <color name="success_green">#2E7D32</color>
+
+    <!-- Theme compatibility colors -->
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#162126</color>
+    <color name="colorAccent">#FFD35A</color>
+</resources>
