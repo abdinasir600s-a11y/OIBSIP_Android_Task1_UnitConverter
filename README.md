@@ -118,13 +118,21 @@ OIBSIP_Android_Task1_UnitConverter/
 
 ## App Screenshots
 
-### Home Screen
+<p align="center">
+  <img src="docs/images/screenshot_home.png" alt="Home Screen" width="300"/>
+</p>
 
-![Home Screen](docs/images/screenshot_home.png)
+<p align="center">
+  <b>Home Screen</b>
+</p>
 
-### Conversion Result
+<p align="center">
+  <img src="docs/images/screenshot_result.png" alt="Conversion Result" width="300"/>
+</p>
 
-![Conversion Result](docs/images/screenshot_result.png)
+<p align="center">
+  <b>Conversion Result</b>
+</p>
 
 ---
 
