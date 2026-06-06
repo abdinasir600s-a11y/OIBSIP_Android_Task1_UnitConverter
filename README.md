@@ -204,9 +204,8 @@ Please enter a valid number.
 
 ## Author
 
-**Abdinasir Osman Warsame**
-
-Android Application Development Intern
+**Abdinasir Osman Warsame**  
+Android Application Development Intern  
 Oasis Infobyte
 
 ---
