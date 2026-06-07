@@ -1,6 +1,6 @@
 # OIBSIP Android Task 1 - Unit Converter App
 <p align="center">
-  <img src="docs/images/logo.png" alt="Unit Converter Logo" width="120"/>
+  <img src="docs/images/logo_white.png" alt="Unit Converter Logo" width="120"/>
 </p>
 
 <p align="center">
