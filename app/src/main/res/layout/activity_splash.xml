@@ -11,5 +11,6 @@
         android:layout_width="96dp"
         android:layout_height="96dp"
         android:src="@drawable/app_logo"
+        android:background="@drawable/circle_bg"
         android:contentDescription="@string/app_name" />
 </LinearLayout>
