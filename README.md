@@ -1,8 +1,12 @@
 # OIBSIP Android Task 1 - Unit Converter App
+<p align="center">
+  <img src="docs/images/logo.png" alt="Unit Converter Logo" width="120"/>
+</p>
 
-## Overview
-
-A clean and modern native Android Unit Converter application built as part of the **Oasis Infobyte Android Application Development Internship**.
+<p align="center">
+  <b>A clean, native Android unit converter app built with Java and XML.</b><br/>
+  Built for the Oasis Infobyte Android Application Development Internship - Task 1.
+</p>
 
 The app allows users to quickly convert common units of length, mass, and temperature. It provides a simple input field, conversion type selector, convert button, clear button, and a clean result display.
 
